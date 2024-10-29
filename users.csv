@@ -1,4 +1,4 @@
-login, name, company, location, email, hireable, bio, public_repos, followers, following, created_at
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
 tarsius,Jonas Bernoulli,,"Basel, Switzerland",jonas@bernoul.li,,,39,1345,45,2008-09-17T19:18:37Z
 aalmiray,Andres Almiray,,"Basel, Switzerland",aalmiray@gmail.com,,I code for fun and help others in the process. Java Champion Alumni. Co-founder of Hackergarten & Hack.Commit.Push. Creator of @jreleaser 🚀,253,887,65,2008-06-17T00:30:56Z
 marcoroth,Marco Roth,,"Basel, Switzerland",,True,"Rubyist, Full-Stack Devloper and Open Source Contributor",193,558,1135,2014-01-15T17:12:11Z
