@@ -7,7 +7,7 @@ GitHub Users in Basel
 This repository contains data about GitHub users in Basel with over 10 followers and their repositories.
 
 ## Files
-• users.csv: Contains information about 350 GitHub users in Basel with over 10 followers.
-• repositories.csv: Contains information about 10274 public repositories from these users.
-• How did i scrape: Python scripts that i used to collect this data.
-• Spreadsheets: Files used to analyze the data.
+• users.csv: Contains information about 350 GitHub users in Basel with over 10 followers.   
+• repositories.csv: Contains information about 10274 public repositories from these users.    
+• How did i scrape: Python scripts that i used to collect this data.    
+• Spreadsheets: Files used to analyze the data.     
